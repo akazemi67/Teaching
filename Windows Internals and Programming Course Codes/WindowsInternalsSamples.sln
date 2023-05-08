@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09)ProcessManipulatorDriver
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09)ProcessManipulatorUserCode", "09)ProcessManipulatorUserCode\ProcessManipulatorUserCode.vcxproj", "{36F7BDF8-BD0D-426D-A27D-881B9B84DCE1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17)PageGuardException", "17)PageGuardException\17)PageGuardException.vcxproj", "{BA8512B6-DF56-4EF9-B47B-BC9BE716D71E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -283,6 +285,18 @@ Global
 		{36F7BDF8-BD0D-426D-A27D-881B9B84DCE1}.Release|x64.Build.0 = Release|x64
 		{36F7BDF8-BD0D-426D-A27D-881B9B84DCE1}.Release|x86.ActiveCfg = Release|Win32
 		{36F7BDF8-BD0D-426D-A27D-881B9B84DCE1}.Release|x86.Build.0 = Release|Win32
+		{BA8512B6-DF56-4EF9-B47B-BC9BE716D71E}.Debug|ARM.ActiveCfg = Debug|Win32
+		{BA8512B6-DF56-4EF9-B47B-BC9BE716D71E}.Debug|ARM64.ActiveCfg = Debug|Win32
+		{BA8512B6-DF56-4EF9-B47B-BC9BE716D71E}.Debug|x64.ActiveCfg = Debug|x64
+		{BA8512B6-DF56-4EF9-B47B-BC9BE716D71E}.Debug|x64.Build.0 = Debug|x64
+		{BA8512B6-DF56-4EF9-B47B-BC9BE716D71E}.Debug|x86.ActiveCfg = Debug|Win32
+		{BA8512B6-DF56-4EF9-B47B-BC9BE716D71E}.Debug|x86.Build.0 = Debug|Win32
+		{BA8512B6-DF56-4EF9-B47B-BC9BE716D71E}.Release|ARM.ActiveCfg = Release|Win32
+		{BA8512B6-DF56-4EF9-B47B-BC9BE716D71E}.Release|ARM64.ActiveCfg = Release|Win32
+		{BA8512B6-DF56-4EF9-B47B-BC9BE716D71E}.Release|x64.ActiveCfg = Release|x64
+		{BA8512B6-DF56-4EF9-B47B-BC9BE716D71E}.Release|x64.Build.0 = Release|x64
+		{BA8512B6-DF56-4EF9-B47B-BC9BE716D71E}.Release|x86.ActiveCfg = Release|Win32
+		{BA8512B6-DF56-4EF9-B47B-BC9BE716D71E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
