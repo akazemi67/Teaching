@@ -11,3 +11,6 @@ YouTube: https://www.youtube.com/@os_security/playlists
 
 Stay up-to-date with my latest resources and insights by joining my Telegram channel today! Click on the link below to join, and don't forget to share your thoughts and feedback with me:
 * https://t.me/OxAA55
+
+Finally, I'd be happy to connect with you on LinkedIn:
+* https://www.linkedin.com/in/akazemi67/
