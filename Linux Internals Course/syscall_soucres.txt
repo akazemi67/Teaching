@@ -1,0 +1,17 @@
+system call table (syscall numbers):
+    /home/abolfazl/linux-6.5.7/arch/x86/entry/syscalls/syscall_64.tbl
+
+syscall headers (syscall function signatures):
+    /home/abolfazl/linux-6.5.7/include/linux/syscalls.h
+
+syscall_init (sets entry_SYSCALL_64 into MSR_LSTAR):
+    /home/abolfazl/linux-6.5.7/arch/x86/kernel/cpu/common.c
+
+entry_SYSCALL_64 (calls do_syscall_64): 
+    /home/abolfazl/linux-6.5.7/arch/x86/entry/entry_64.S
+
+do_syscall_64 (calls appropriate fuction from sys_call_table):
+    /home/abolfazl/linux-6.5.7/arch/x86/entry/common.c
+
+
+
